@@ -117,6 +117,7 @@ the sources, in total, encompass hundreds of student reviews covering topics lik
      He recommends purchasing the textbook because it is utilized across all CPS levels at the university.
 5. What is Lakshmi-Devi Subramanian's overall difficulty rating according to her profile summary?
      4.6.
+6. Parking situation at Kean?
 
 ^ai utilized for these questions
 
