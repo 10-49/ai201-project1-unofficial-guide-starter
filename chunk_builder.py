@@ -7,8 +7,12 @@ import random
 #we filter for the word Professor which starts each chunk entry anyway.
 #this is another oversight and can be addressed in the future.
 
-def load_and_validate_chunks(cleaned_dir: str) -> list[str]:
+import os
+import random
+
+def load_and_validate_chunks(cleaned_dir: str):
     all_chunks = []
+    all_metadatas = [] # <--- NEW: Array to hold the metadata dictionaries
     
     for filename in os.listdir(cleaned_dir):
         if filename.endswith(".txt"):
@@ -16,20 +20,23 @@ def load_and_validate_chunks(cleaned_dir: str) -> list[str]:
             with open(filepath, "r", encoding="utf-8") as f:
                 content = f.read()
                 
-                # Split by standard newlines
                 lines = content.split('\n')
                 
-                # Filter: Keep only the lines that contain actual review data
-                # This guarantees zero empty fragments and zero concatenated files
-                file_chunks = [line.strip() for line in lines if line.strip().startswith("Professor:")]
-                all_chunks.extend(file_chunks)
-    
-    return all_chunks
+                for line in lines:
+                    if line.strip().startswith("Professor:"):
+                        all_chunks.append(line.strip())
+                        # <--- NEW: Map the exact filename to this specific chunk
+                        all_metadatas.append({"source": filename}) 
+                        
+    return all_chunks, all_metadatas # Return both lists
 
 if __name__ == "__main__":
-    cleaned_directory = "ai201-project1-unofficial-guide-starter/data/cleaned" 
-    chunks = load_and_validate_chunks(cleaned_directory)
+    base_dir = os.path.dirname(os.path.abspath(__file__))
     
+    # build the absolute path to data/cleaned
+    cleaned_directory = os.path.join(base_dir, "data", "cleaned")
+    chunks, metadatas = load_and_validate_chunks(cleaned_directory)
+
     total_chunks = len(chunks)
     print(f"Total chunks loaded: {total_chunks}")
     print("=" * 60)
