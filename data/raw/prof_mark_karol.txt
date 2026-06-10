@@ -1,0 +1,298 @@
+2.7
+/ 5
+Overall Quality Based on 15 ratings
+Mark Karol
+Professor in the Computer Science department at Kean University (all campuses)
+34%
+Would take again
+3.4
+Level of Difficulty
+Compare
+I'm Professor Karol
+Rating Distribution
+
+    Awesome 5
+    2
+    2
+    Great 4
+    3
+    3
+    Good 3
+    3
+    3
+    OK 2
+    2
+    2
+    Awful 1
+    5
+    5
+
+Similar Professors
+
+    5.00Abdou Mbow
+    5.00Daehan Kwak
+    4.90David Handerhan
+
+    15 Student Ratings
+
+All courses
+
+    Quality
+    5.0
+    Difficulty
+    4.0
+    CPS3440
+    Jan 11th, 2026
+    For Credit: Yes
+    Attendance: Not Mandatory
+    Would Take Again: Yes
+    Grade: A-
+    Textbook: N/A
+    The class is tough, not the professor. Everyone complaining doesn't understand the difference. The class demands you to know some topics in order to build on them and the professor expects you to know these topics however if anyone has a question he tries his best to answer.
+    Participation matters
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    1
+    Quality
+    1.0
+    Difficulty
+    5.0
+    CPS3440
+    Jan 2nd, 2025
+    For Credit: Yes
+    Grade: A-
+    Textbook: Yes
+    Nice but no one ever understands what he is saying. He has to curve the whole class from a failing grade to about a B average otherwise everyone would fail. Midterm and final were impossible. He takes attendance every class but it isn't part of your grade.
+    Tough graderTest heavy
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    0
+    Quality
+    3.0
+    Difficulty
+    4.0
+    CPS3440
+    Nov 13th, 2024
+    For Credit: Yes
+    Attendance: Mandatory
+    Textbook: N/A
+    he is an okay prof, his lectures are quite informative and long. his homework can take quite some time to complete. for his exams you are able to use notes from the lectures or the homework to help. i did that, and failed so hard. but either way i hope this helps since he is the only professor for this course as for now.
+    Tough graderClear grading criteriaLots of homework
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    0
+    Quality
+    3.0
+    Difficulty
+    4.0
+    TECH2920
+    Feb 5th, 2024
+    For Credit: Yes
+    Attendance: Not Mandatory
+    Grade: B-
+    Textbook: N/A
+    His class consists of very long lectures and it can become overwhelming to stay awake in his class. The whole class struggles on tests and then he has to end up curving everyone or else everyone fails.
+    EXTRA CREDITGives good feedbackLecture heavy
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    0
+    Quality
+    2.0
+    Difficulty
+    2.0
+    TECH2920
+    Nov 22nd, 2023
+    For Credit: Yes
+    Attendance: Mandatory
+    Grade: B-
+    Textbook: N/A
+    Not the greatest speaker. It's really hard to understand his explanations of difficult computer system concepts. Takes attendance randomly, maybe every other class meeting. No discussions, no participation, no pop quizzes, some parts of some exams were open book, mainly the open-ended parts. TLDR: Easy class but you'll have to teach yourself.
+    Lecture heavy
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    0
+    Quality
+    1.0
+    Difficulty
+    5.0
+    TECH2920
+    Apr 12th, 2023
+    For Credit: Yes
+    Attendance: Mandatory
+    Grade: Not sure yet
+    Textbook: Yes
+    If you like having 30 minutes of each class listening to a man mumble and talk in circles, this is your guy. If you like having to read a lot due to incompetent lecturing, and pay to teach yourself, this is your guy. If you like 60% of your grade being hard exams that consists of material not discussed in class, no study guide, this is your guy
+    Tough graderGet ready to readLecture heavy
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    0
+    Quality
+    1.0
+    Difficulty
+    5.0
+    TECH2920
+    Dec 21st, 2021
+    For Credit: Yes
+    Attendance: Mandatory
+    Would Take Again: No
+    Grade: B
+    Textbook: No
+    I just had this man for Tech 2920 and I will tell you. He is by far the pettiest professor I have had in Kean hands down. His exams are all hard with some people just leaving by just knowing nothing on the exam due to his teaching. He gives out, "Free points", but if you don't come to call those points will hurt you in the end. He does curve a bit.
+    Participation mattersSkip class? You won't pass.Test heavy
+    Helpful
+    Thumbs up
+    1
+    Thumbs down
+    0
+    Quality
+    2.0
+    Difficulty
+    4.0
+    TECH2920
+    Dec 8th, 2021
+    For Credit: Yes
+    Attendance: Mandatory
+    Would Take Again: No
+    Grade: A
+    Textbook: Yes
+    He is very knowledgable in his teaching, but sometimes it gets hard to understand and follow concepts on his lectures. He goes through material very quick. By the midway point of the semester I found myself relying less on him and more on the textbook and YouTube to teach me. I would only take him again unless I really needed to.
+    Test heavy
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    0
+    Quality
+    4.0
+    Difficulty
+    4.0
+    CPS3440
+    Nov 18th, 2021
+    For Credit: Yes
+    Attendance: Not Mandatory
+    Would Take Again: Yes
+    Textbook: No
+    Many many slides in each lecture, goes through the slides vaguely & gives decent homeworks. Pretty average teacher but he's extremely lenient. Study hard for the tests they are not easy at all. He curves relative to the class average. He wants you to have fun learning.
+    Gives good feedbackInspirationalLecture heavy
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    0
+    Quality
+    5.0
+    Difficulty
+    3.0
+    TECH2920
+    May 7th, 2021
+    For Credit: Yes
+    Attendance: Mandatory
+    Would Take Again: Yes
+    Textbook: No
+    He's a kind guy. His tests were easy and he graded the Homework roughly. He's okay I'd say, nothing crazy. Lectures weren't so engaging, but he tried his best.
+    Graded by few thingsClear grading criteriaLecture heavy
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    0
+    Quality
+    4.0
+    Difficulty
+    3.0
+    Computer Icon CPS3440
+    Nov 6th, 2020
+    For Credit: Yes
+    Attendance: Not Mandatory
+    Would Take Again: Yes
+    Grade: Not sure yet
+    Textbook: No
+    Online Class: Yes
+    He may not be the most exciting professor, but he really knows his material. Very smart and very informative. If you just do the hw and study them, you should be fine to pass the exams. Also, he curves which is a nice bonus.
+    RespectedParticipation mattersLecture heavy
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    0
+    Quality
+    4.0
+    Difficulty
+    2.0
+    TECH2920
+    Sep 23rd, 2019
+    For Credit: Yes
+    Attendance: Not Mandatory
+    Would Take Again: Yes
+    Grade: A-
+    Textbook: Yes
+    It's sad to see that some people make fun of him. He may talk at a fast speed but he is a nice guy. If you come to him during office hours, he will explain what you need to know.
+    Gives good feedbackAccessible outside classClear grading criteria
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    0
+    Quality
+    3.0
+    Difficulty
+    1.0
+    TECH2091
+    May 23rd, 2018
+    For Credit: Yes
+    Attendance: Not Mandatory
+    Would Take Again: No
+    Grade: A-
+    Textbook: Yes
+    Very boring, he is Such a good professor but really boring. Exams r difficult but easy A
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    1
+    Quality
+    1.0
+    Difficulty
+    2.0
+    TECH2929
+    Jun 6th, 2017
+    For Credit: Yes
+    Attendance: Not Mandatory
+    Would Take Again: No
+    Grade: B
+    Textbook: Yes
+    He is VERY BORING. You just sit while he rambles and rambles. Most of the time he is not sure what he is talking about. Attendance isn't mandatory. He is an Easy A if you do your homework and attempt to study for the midterm/final.
+    ACCESSIBLE OUTSIDE CLASSClear grading criteriaLECTURE HEAVY
+    Helpful
+    Thumbs up
+    5
+    Thumbs down
+    1
+    Quality
+    1.0
+    Difficulty
+    3.0
+    TECH2920
+    Feb 22nd, 2017
+    For Credit: Yes
+    Would Take Again: No
+    Textbook: Yes
+    This class is boring. You sit in the class, and he teaches while either looking at the wall or the floor. If you ask a question he mumbles and most of the time does not know how to respond. Homework is assigned from the textbook, yet he doesn't teach what you need to know to do the homework. Midterm and final, each about nine chapters of info.
+    Get ready to readGRADED BY FEW THINGS
+    Helpful
+    Thumbs up
+    4
+    Thumbs down
+    1

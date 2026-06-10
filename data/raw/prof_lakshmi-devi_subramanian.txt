@@ -1,0 +1,308 @@
+2
+/ 5
+Overall Quality Based on 16 ratings
+Lakshmi-Devi Subramanian
+Professor in the Computer Science department at Kean University (all campuses)
+19%
+Would take again
+4.6
+Level of Difficulty
+Compare
+I'm Professor Subramanian
+Rating Distribution
+
+    Awesome 5
+    2
+    2
+    Great 4
+    0
+    0
+    Good 3
+    4
+    4
+    OK 2
+    0
+    0
+    Awful 1
+    10
+    10
+
+Similar Professors
+
+    5.00Abdou Mbow
+    5.00Daehan Kwak
+    4.90David Handerhan
+
+    16 Student Ratings
+
+All courses
+
+    Quality
+    1.0
+    Difficulty
+    5.0
+    CPS2231
+    Dec 18th, 2025
+    For Credit: Yes
+    Attendance: Mandatory
+    Grade: Not sure yet
+    Textbook: N/A
+    One of the worst profs at Kean. Made us copy code for credit, without explaining a thing. Changed the date of the final last second, which I don't even think is allowed for profs to do. then showed up late to the new date of the final and rushed us to complete it. Not to mention she doesn't wear deodorant and it's noticeable. Never take her.
+    Tough graderLots of homeworkLecture heavy
+    Helpful
+    Thumbs up
+    1
+    Thumbs down
+    0
+    Reviewed: Dec 18th, 2025
+    Quality
+    1.0
+    Difficulty
+    5.0
+    CPS22231
+    Dec 4th, 2024
+    For Credit: Yes
+    Attendance: Mandatory
+    Grade: D+
+    Textbook: N/A
+    Bad teacher who doesn't help students and gave bad reviews for the labs. DO NOT TAKE HER IF POSSIBLE.
+    Tough graderTest heavyGraded by few things
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    0
+    Quality
+    3.0
+    Difficulty
+    4.0
+    CPS2231
+    Sep 24th, 2024
+    For Credit: Yes
+    Attendance: Mandatory
+    Would Take Again: Yes
+    Grade: C
+    Textbook: Yes
+    She's a good professor, sometimes I couldn't understand her, so make sure you ask questions if you're curious about a lecture or something else. Her homework is quite heavy, and so are the exams. They definitely humbled me for sure. If you are still in doubt, go to SI, they can help as well.
+    Tough graderLots of homeworkTest heavy
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    0
+    Quality
+    3.0
+    Difficulty
+    3.0
+    CPS2231
+    Apr 20th, 2024
+    For Credit: Yes
+    Attendance: Mandatory
+    Grade: B
+    Textbook: N/A
+    This is a FILTER CLASS get ready to memorize a lot Grind Vocab Memorize Java syntax as well as how 2d arrays work it's seriously not that bad you'll be fine if you have decent study habits it truly is not bad as people make it out to be if you have experience with AP comp sci this is way easier
+    Tough graderLecture heavy
+    Helpful
+    Thumbs up
+    1
+    Thumbs down
+    0
+    Quality
+    5.0
+    Difficulty
+    5.0
+    CPS22231
+    Apr 11th, 2024
+    For Credit: Yes
+    Attendance: Mandatory
+    Grade: Rather not say
+    Textbook: N/A
+    I don't even know where to begin. I genuinely wonder how someone so knowledgeable on the subject at hand has the teaching capabilities of a 5th grader but here we are. If you like drowning, with the whole class seemingly suffering due to poor communication/teaching skills, you found the right place.
+    InspirationalTest heavyGraded by few things
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    1
+    Quality
+    3.0
+    Difficulty
+    3.0
+    CPS2231
+    Apr 1st, 2024
+    For Credit: Yes
+    Would Take Again: Yes
+    Grade: B+
+    Textbook: N/A
+    her class was not that hard, the hardest thing about her class where the labs. But the midterm wasn't bad.
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    0
+    Quality
+    1.0
+    Difficulty
+    5.0
+    CPS2231
+    Jan 29th, 2024
+    For Credit: Yes
+    Attendance: Mandatory
+    All she does is read off slides and asks you to copy whatever code she has up. Does not know how to teach and if you still have the choice to either drop or switch professors PLEASE DO SO! It would save your GPA and your sanity.
+    Tough grader
+    Helpful
+    Thumbs up
+    1
+    Thumbs down
+    0
+    Quality
+    5.0
+    Difficulty
+    4.0
+    CPS2231
+    Jan 8th, 2024
+    For Credit: Yes
+    Attendance: Mandatory
+    Would Take Again: Yes
+    Grade: A
+    Textbook: N/A
+    If you actually want to learn and understand OOP concepts in Java I would recommend this professor, the tests and quizzes can be hard but are very much doable. And in my class extra credit was given towards the end of the semester. You also practice the concepts a lot in class allowing you to better understand the material.
+    EXTRA CREDITLecture heavy
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    2
+    Quality
+    1.0
+    Difficulty
+    5.0
+    CPS2231
+    Dec 27th, 2023
+    For Credit: Yes
+    Attendance: Mandatory
+    Grade: A
+    Textbook: Yes
+    TECH*3640*01: VIRTUAL & AUGMENTED REALITY. This was insane! free elective course turned into horror because of her. didn't grade anything untill after midterms. the drop rate was crazy from 30 students to like 10 at the end. no feedback, no engagement, no attention to students, only limited to 350 words here but i could go on forever, just no!
+    Tough graderLecture heavy
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    0
+    Quality
+    1.0
+    Difficulty
+    5.0
+    CPS2231
+    Nov 10th, 2023
+    For Credit: Yes
+    Grade: Drop/Withdrawal
+    Textbook: N/A
+    Little to no engagement with students and horrible reviews for quizzes and tests.
+    Tough graderLecture heavy
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    0
+    Quality
+    1.0
+    Difficulty
+    4.0
+    CPS2231
+    May 25th, 2023
+    Attendance: Mandatory
+    Grade: B-
+    Textbook: N/A
+    Do not take this class unless your last choice. Unless you enjoy sitting in class and just looking at a PowerPoint slideshow for the whole class with very little engagement, this is the class for you. It isn't the hardest class to pass but definitely not for the faint of heart. She is a tough grader and doesn't seem to sympathize with students.
+    Tough graderEXTRA CREDITLecture heavy
+    Helpful
+    Thumbs up
+    4
+    Thumbs down
+    0
+    Quality
+    3.0
+    Difficulty
+    5.0
+    CPS2231
+    May 18th, 2023
+    For Credit: Yes
+    Attendance: Mandatory
+    Grade: B-
+    Textbook: Yes
+    Professor Subramanian is a new professor at Kean and its taking students a bit to adjust to her methods of teaching. She is a very tough grader and grades heavily based on accuracy. If you take her CPS 2231 class be prepared to study a lot or else you will not score well on the quizzes, midterm or final exams. Overall a decent experience.
+    Tough graderEXTRA CREDITTest heavy
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    8
+    Quality
+    1.0
+    Difficulty
+    5.0
+    CPS2231
+    May 1st, 2023
+    For Credit: Yes
+    Attendance: Mandatory
+    Grade: C-
+    Textbook: Yes
+    Horrible. Avoid at all costs. Does not know how to teach, and is new to being a professor. Half of my class section disappeared after the add/drop period. If you care about your GPA, then don't even bother with her. Class average was a 40% out of 30 students (and she does not curve at all, so don't even try reasoning with her).
+    Tough graderEXTRA CREDITGraded by few things
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    0
+    Quality
+    1.0
+    Difficulty
+    5.0
+    CPS2231
+    Apr 4th, 2023
+    For Credit: Yes
+    Attendance: Mandatory
+    Grade: Not sure yet
+    Textbook: N/A
+    Please don't ever take this professor! Save your gpa. She reads off slides and doesn't really engage with the class. Everyone is struggling half of the class dropped the class for that reason. Reviews for tests/ exams are absolutely HORRIBLE. You're basically on your own. If you don't do well in the first test or midterm , drop the class ASAP!
+    Tough graderAccessible outside class
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    0
+    Quality
+    1.0
+    Difficulty
+    5.0
+    CPS22231
+    Jan 8th, 2023
+    For Credit: Yes
+    Attendance: Not Mandatory
+    Grade: A
+    Textbook: N/A
+    Lakshmi is new at Kean and I took her first class. She was rude to me on the first day, and did not seem to want to be bothered to really elaborate on concepts I did not understand. Her quizzes were hard and you got less time than needed for them. Homework was easy but exams were hard and did not have the time required to fully answer a question.
+    Get ready to readTest heavyGraded by few things
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    0
+    Quality
+    1.0
+    Difficulty
+    5.0
+    CPS22231
+    Nov 14th, 2022
+    For Credit: Yes
+    Attendance: Mandatory
+    Grade: Drop/Withdrawal
+    Textbook: N/A
+    Professor Subramanian was new so I decided to give her a chance. Almost half my semester was wasted and I was required to drop the class. She is very heavily dependent on homework and lab assignments that she does not go over at all during class and during the quiz and tests, she gives an obnoxious amount of questions. The quiz had 39 questions...
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    0

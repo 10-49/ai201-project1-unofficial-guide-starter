@@ -1,0 +1,342 @@
+3.5
+/ 5
+Overall Quality Based on 17 ratings
+Ching-yu Huang
+Professor in the Computer Science department at Kean University (all campuses)
+53%
+Would take again
+4.2
+Level of Difficulty
+Compare
+I'm Professor Huang
+Rating Distribution
+
+    Awesome 5
+    8
+    8
+    Great 4
+    2
+    2
+    Good 3
+    2
+    2
+    OK 2
+    0
+    0
+    Awful 1
+    5
+    5
+
+Similar Professors
+
+    5.00Abdou Mbow
+    5.00Daehan Kwak
+    4.90David Handerhan
+
+    17 Student Ratings
+
+All courses
+
+    Quality
+    1.0
+    Difficulty
+    5.0
+    CPS3740
+    Jan 15th, 2026
+    For Credit: Yes
+    Attendance: Mandatory
+    Grade: Rather not say
+    Textbook: Yes
+    Not that great. He crams slides quickly 30 minutes into the class. He makes sql and database unnecessary hard for students to understand. very little things to improve your grade. take another elective if i was you
+    Lecture heavyTest heavyGraded by few things
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    0
+    Quality
+    5.0
+    Difficulty
+    5.0
+    CPS3740
+    Dec 28th, 2025
+    For Credit: Yes
+    Attendance: Mandatory
+    Would Take Again: Yes
+    Grade: A
+    Textbook: Yes
+    If your one of the students that just wants an easy A and curve. Do not take him. If you want to learn and actually hone in on your skills take him. You will learn so much from him and he holds everyone accountable and to a standard that is so valuable. Do not think that you can cruise your way and pass this class by using AI
+    Tough graderRespectedAccessible outside class
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    0
+    Quality
+    5.0
+    Difficulty
+    4.0
+    CPS5740
+    Oct 15th, 2025
+    For Credit: Yes
+    Attendance: Mandatory
+    Would Take Again: Yes
+    Grade: B+
+    Textbook: Yes
+    Dr. Huang is definitely one of the harder professors in the department, but for good reason. If you are looking for an easy A, he is not the professor to take. He will make you work for your grade, but if you put in the work you will thank him. He truly cares about setting up students for success outside of class - in landing internships and jobs.
+    Tough graderLots of homeworkCaring
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    0
+    Quality
+    4.0
+    Difficulty
+    3.0
+    CPS2231
+    Jan 16th, 2025
+    For Credit: Yes
+    Attendance: Mandatory
+    Would Take Again: Yes
+    Grade: B
+    Textbook: Yes
+    Solid Professor
+    Respected
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    0
+    Quality
+    1.0
+    Difficulty
+    5.0
+    CPS5740
+    Dec 12th, 2024
+    For Credit: Yes
+    Attendance: Mandatory
+    Grade: F
+    Textbook: Yes
+    Not good for students with disabilities. Does not help students learn the material at all. Reads off slides verbatim. Took same course at another institution and learned more.
+    Tough graderLots of homeworkTest heavy
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    0
+    Quality
+    5.0
+    Difficulty
+    2.0
+    CPS3740
+    Jan 5th, 2024
+    For Credit: Yes
+    Attendance: Not Mandatory
+    Would Take Again: Yes
+    Grade: A+
+    Textbook: N/A
+    Absofruitly excellent. Cares about setting students up for success forreal. And that ones ong.
+    InspirationalRespectedAccessible outside class
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    0
+    Quality
+    5.0
+    Difficulty
+    3.0
+    CPS5740
+    May 11th, 2023
+    For Credit: Yes
+    Attendance: Mandatory
+    Would Take Again: Yes
+    Grade: A+
+    Textbook: N/A
+    Professor Huang has been one of my favorite professors in the CS/IT department. Yes, you have to work hard and self study but you should not be a CS/IT major is you cannot self study and problem solve on your own. I have learned a lot in his class. He is also very understanding and caring just ask for help!
+    InspirationalCaringAccessible outside class
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    0
+    Quality
+    3.0
+    Difficulty
+    5.0
+    Computer Icon CPS3740
+    Jul 20th, 2021
+    For Credit: Yes
+    Attendance: Mandatory
+    Would Take Again: No
+    Grade: B+
+    Textbook: No
+    Online Class: Yes
+    Dr. Huang is a caring guy, but his class is almost impossible to pass. The class average on the midterms were usually always below 70%. If he gets his class average of a B-, he doesnt care if you fail. You learn a lot about SQL, PHP, and HTML, but most of the class is self-study. If you have any questions, he tells you to see the samurai.
+    Skip class? You won't pass.Test heavyTough grader
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    0
+    Quality
+    5.0
+    Difficulty
+    4.0
+    CPS5740
+    May 10th, 2021
+    For Credit: Yes
+    Would Take Again: Yes
+    Grade: A-
+    Textbook: Yes
+    Whether you are taking CPS3740, TECH3740 or CPS5740 expect to put in work for this class. You learn a lot with him, yeah is true you will have to work extra hard for this class, but if you actually pay attention to class and are ready you will learn a lot. Hands down one of the best professors in the department
+    Gives good feedbackLots of homeworkClear grading criteria
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    0
+    Quality
+    1.0
+    Difficulty
+    5.0
+    Computer Icon CPS3740
+    May 3rd, 2021
+    For Credit: Yes
+    Attendance: Mandatory
+    Would Take Again: No
+    Grade: C
+    Textbook: Yes
+    Online Class: Yes
+    Insane work load and loves to cram all the work in the last month of the semester. If your working a job and take this class it is near impossible
+    Lots of homeworkGet ready to readLecture heavy
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    0
+    Quality
+    1.0
+    Difficulty
+    5.0
+    TECH3740
+    Mar 11th, 2021
+    For Credit: Yes
+    Attendance: Mandatory
+    Would Take Again: No
+    Grade: C
+    Textbook: No
+    This class was the hardest class I have ever taken here at Kean. The homework, projects, test, quizzes, and final is are on a different level of difficult. These homework's easily took hours upon hours to complete. He moves at a unreal speed when teaching so blink and fall behind. The class average for our midterms was a 59% and there was no curve!
+    Test heavyLecture heavyTough grader
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    0
+    Quality
+    3.0
+    Difficulty
+    5.0
+    Computer Icon CPS3740
+    Dec 17th, 2020
+    For Credit: Yes
+    Would Take Again: No
+    Textbook: No
+    Online Class: Yes
+    Don't get me wrong, I learned a lot of practical skills in his class such as learning SQL and php. However, the quizzes, tests, labs, and hw were one the hardest things I've have to do . He talks very fast. You need to be on your A game during his lectures. He makes his content difficult for the sake of making it difficult. Be warned.
+    Skip class? You won't pass.Lecture heavyTough grader
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    0
+    Quality
+    1.0
+    Difficulty
+    5.0
+    TECH3740
+    Nov 3rd, 2020
+    For Credit: Yes
+    Attendance: Mandatory
+    Would Take Again: No
+    Grade: B
+    Textbook: No
+    Pain professor who explains material too fast and when you try to ask a question, he says he doesnt have the time for it and makes you go to another source to get your question answered. Very hard material, hard quizzes, hard to read and understand projects. He overcomplicates things and isnt helpful when you ask for help.
+    Test heavyLecture heavy
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    0
+    Quality
+    5.0
+    Difficulty
+    5.0
+    CPS3740
+    Jun 13th, 2020
+    For Credit: Yes
+    Attendance: Mandatory
+    Would Take Again: Yes
+    Textbook: No
+    To be honest the subject is tough, if your going in this class thinking you will easily pass if you sit there and not try, then hate to break it to you, YOU ARE WRONG. Although it is a lot to learn and projects are really tough i can honestly say that if it wasnt for this professor and those projects i wouldnt have learned a thing. TAKE HIM!
+    Test heavyClear grading criteriaSkip class? You won't pass.
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    0
+    Quality
+    5.0
+    Difficulty
+    3.0
+    CPS2231
+    Mar 3rd, 2020
+    For Credit: Yes
+    Attendance: Mandatory
+    Would Take Again: Yes
+    Grade: B+
+    Textbook: Yes
+    He cares a lot about his students and is passionate about computer science. He does a good job explaining things and encourages students to really try.
+    Accessible outside class
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    0
+    Quality
+    5.0
+    Difficulty
+    3.0
+    CPS3740
+    May 18th, 2019
+    For Credit: Yes
+    Attendance: Not Mandatory
+    Would Take Again: Yes
+    Grade: A-
+    Textbook: No
+    Dr. Huang is one of the most caring professors that I have had. He cares about the students progress not only in the class but he cares about where they are going. His lectures are very informative and the projects that he gives teaches you a lot about the basics of server-side and web programming. Take him for any class that you need him for.
+    RespectedAccessible outside classEXTRA CREDIT
+    Helpful
+    Thumbs up
+    1
+    Thumbs down
+    0
+    Quality
+    4.0
+    Difficulty
+    4.0
+    CPS3740
+    Apr 30th, 2019
+    For Credit: Yes
+    Attendance: Mandatory
+    Would Take Again: No
+    Grade: B+
+    Textbook: No
+    You need to have some basic knowledge of web development; otherwise, it will be kind of difficult.
+    Lots of homeworkAccessible outside classEXTRA CREDIT
+    Helpful
+    Thumbs up
+    0
+    Thumbs down
+    0
