@@ -136,7 +136,7 @@ def parse_rmp_reviews(raw_text: str, professor_name: str) -> list[str]:
 # Example Execution
 if __name__ == "__main__":
     dir = os.path.dirname(os.path.realpath(__file__))
-    with open(r"C:\Users\ddcac\Documents\codepath\ai201\show\data\raw\prof_name.txt", "r", encoding="utf-8") as f:
+    with open(r"ai201-project1-unofficial-guide-starter\data\raw\prof_name.txt", "r", encoding="utf-8") as f:
         raw_data = f.read()
 
 
